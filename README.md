@@ -1,11 +1,21 @@
+### Little about me:
+🔭 I’m currently working on: League Of Legends Calc app <br/>
+🌱 I’m currently learning: C++ <br/>
+📫 How to reach me: Ikagi#6178 on Discord <br/>
+
 ### Languages and technologies I currently know:
 
 <img style="margin-right: 10px;" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
-<img style="margin-right: 10px;" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+
+<br><br><br>
+<img align="left" alt="Ikagi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ikagi&show_icons=true&theme=dracula" />
+<br><br><br>
+
+
 
 
 <!--
