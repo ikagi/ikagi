@@ -12,7 +12,9 @@
 <img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
 
 <br><br><br>
-<img align="left" alt="Ikagi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ikagi&show_icons=true&theme=dracula" />
+### Some github stats:
+<img align="left" alt="Ikagi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ikagi&show_icons=true&theme=tokyonight&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikagi&theme=tokyonight" />
 <br><br><br>
 
 
