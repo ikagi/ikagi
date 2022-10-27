@@ -1,5 +1,5 @@
 ### Little about me:
-🔭 I’m currently working on: League Of Legends Calc app <br/>
+🔭 I’m currently working on: IDK <br/>
 🌱 I’m currently learning: C++ <br/>
 📫 How to reach me: Ikagi#6178 on Discord <br/>
 
