@@ -9,7 +9,7 @@
 <img style="margin-right: 10px;" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
 <img style="margin-right: 10px;" align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />
-<img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" />
+<img style="margin-right: 10px;" align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/vorillaz/devicons/refs/heads/master/!SVG/mysql.svg" />
 <img style="margin-right: 10px;" align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/dart.svg" />
 <img style="margin-right: 10px;" align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/vorillaz/devicons/refs/heads/master/!SVG/swift.svg" />
 
