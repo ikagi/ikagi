@@ -1,6 +1,6 @@
 ### Little about me:
 🔭 I’m currently working on: <b>Rocket and ground base software </b><br/>
-🌱 I’m currently learning: <b>C++</b> <br/>
+🌱 I’m currently learning: <b>Swift</b> <br/>
 📫 How to reach me: <b>Ikagi1337 on Discord</b> <br/>
 
 ### Languages and technologies I currently know:
